@@ -10,9 +10,9 @@ Este repositório documenta a atividade prática realizada durante o curso de Co
 
 Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** no portal Azure. A configuração envolveu:
 
-- Escolha da região: `(US) East US`
+- Escolha da região: `(US) East US` (mas pode ser aque melhor se adequar a sua necessidade)
 - Definição de uma **zona de disponibilidade** (implica diretamente no SLA)
-- Imagem: `Windows Server 2019 Datacenter - x64 Gen2`
+- Imagem: `Windows Server 2019 Datacenter - x64 Gen2` (deixando a imagenorganizada)
 - Tipo de segurança: Inicialização confiável
 
 📷 *Criando uma máquina virtual:*
@@ -23,12 +23,12 @@ Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** n
 
 ## 📦 Criando uma Conta de Armazenamento
 
-Ao criar uma conta de armazenamento no Azure, foi possível selecionar entre diferentes **opções de redundância**:
+Mostrando como é a replicação de uma conta de armazenamento no Azure, que é possível selecionar entre diferentes **opções de redundância**:
 
 - **LRS** – Redundância local
 - **GRS** – Redundância geográfica
 - **ZRS** – Redundância de zona
-- **GZRS** – Redundância geográfica com zona
+- **GZRS** – Redundância de zona geográfica
 
 Essas opções impactam **diretamente no SLA e no custo** da solução.
 
