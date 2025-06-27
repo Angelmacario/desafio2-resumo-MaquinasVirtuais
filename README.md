@@ -18,6 +18,7 @@ Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** n
 📷 *Criando uma máquina virtual:*
 ![Criando uma máquina virtual](./imagens/criando-mv.png)
 
+
 ---
 
 ## 📦 Criando uma Conta de Armazenamento
