@@ -12,7 +12,6 @@ Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** n
 
 - Escolha da região: `(US) East US`
 - Definição de uma **zona de disponibilidade** (implica diretamente no SLA)
-- Imagem: `Windows Server 2019 Datacenter - x64 Gen2`
 - Tipo de segurança: Inicialização confiável
 
 📷 *Captura de tela:*
