@@ -12,9 +12,10 @@ Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** n
 
 - Escolha da região: `(US) East US`
 - Definição de uma **zona de disponibilidade** (implica diretamente no SLA)
+- Imagem: `Windows Server 2019 Datacenter - x64 Gen2`
 - Tipo de segurança: Inicialização confiável
 
-📷 *Captura de tela:*
+📷 *Criando uma máquina virtual:*
 ![Criando uma máquina virtual](./imagens/criando-mv.png)
 
 ---
@@ -30,7 +31,7 @@ Ao criar uma conta de armazenamento no Azure, foi possível selecionar entre dif
 
 Essas opções impactam **diretamente no SLA e no custo** da solução.
 
-📷 *Captura de tela:*
+📷 *Replicação de dados no armazenamento:*
 ![Replicação de dados no armazenamento](./imagens/contas-armazenamento.png)
 
 ---
@@ -50,7 +51,7 @@ Quanto **mais noves** no SLA (ex: 99,999%), **menor será o tempo de inatividade
 | 99,999%    | 25,9 segundos        | 5,26 minutos         |
 
 
-📷 *Captura de tela:*
+📷 *Tabela de SLA:*
 ![Tabela de SLA](./imagens/SLA.png)
 
 ---
