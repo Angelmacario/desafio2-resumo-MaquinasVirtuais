@@ -16,7 +16,7 @@ Durante a atividade, foi realizada a criação de uma **VM (Virtual Machine)** n
 - Tipo de segurança: Inicialização confiável
 
 📷 *Captura de tela:*
-![Criando uma máquina virtual](./images/criando%20mv.png)
+![Criando uma máquina virtual](./imagens/criando-mv.png)
 
 ---
 
@@ -32,7 +32,7 @@ Ao criar uma conta de armazenamento no Azure, foi possível selecionar entre dif
 Essas opções impactam **diretamente no SLA e no custo** da solução.
 
 📷 *Captura de tela:*
-![Replicação de dados no armazenamento](./images/replicar%20em%20contas%20de%20armazenamento.png)
+![Replicação de dados no armazenamento](./imagens/contas-armazenamento.png)
 
 ---
 
@@ -52,7 +52,7 @@ Quanto **mais noves** no SLA (ex: 99,999%), **menor será o tempo de inatividade
 
 
 📷 *Captura de tela:*
-![Tabela de SLA](./images/SLA.png)
+![Tabela de SLA](./imagens/SLA.png)
 
 ---
 
